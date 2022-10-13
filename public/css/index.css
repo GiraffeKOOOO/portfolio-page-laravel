@@ -1,0 +1,76 @@
+#profile-section {
+    margin-top: 50px;
+}
+
+.profile-picture {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.margin-top-70 {
+    margin-top: 70px;
+}
+
+#col-title {   
+    align-self: center;
+}
+
+.profile-name {
+    font-size: 50px;
+    color: #dedede;
+}
+
+.profile-title {
+    font-size: 30px;
+    color: #dedede;
+}
+
+.profile-degree {
+    font-size: 20px;
+    color: #dedede;
+}
+
+#project-carousel-title {
+    font-size: 30px;
+}
+
+.carousel-image {
+    height: 300px;
+    border-radius: 15px;
+    border: solid 1px rgb(128, 128, 128);
+}
+
+#grid-panel {
+    justify-content: center;
+}
+
+.panel-anchor {
+    text-decoration: none;
+    color: #dedede;
+}
+
+.panel-anchor:hover {
+    color: #dedede;
+}
+
+.panel-button {
+    margin: 7px;
+    width: 48%;
+    height: 150px;
+    border-radius: 3px;
+    border: solid 1px rgb(128, 128, 128);
+}
+
+#panel-button-content {
+    margin-top: 40px;
+    display: flex;
+}
+
+.panel-button-name {
+    margin-top: 40px;
+    margin-left: -40px;
+    font-size: 40px;
+    text-align: left;
+}
