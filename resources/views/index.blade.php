@@ -5,7 +5,7 @@
         <div class="container text-center">
             <div class="row" id="profile-section">
               <div class="col-3" id="col-profile">
-                <img src="{{ URL::to('/media/face.png') }}" class="profile-picture">
+                <img src="{{ URL::to('/media/face.jpeg') }}" class="profile-picture">
               </div>
               <div class="col-6" id="col-title">
                 <p class="profile-name">Paskal Stepien</p>
